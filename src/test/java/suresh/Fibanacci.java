@@ -12,7 +12,7 @@ public class Fibanacci {
 				System.out.println(c);
 				a=b;
 				b=c;
-			}
+				}
 		}
 
 	}
